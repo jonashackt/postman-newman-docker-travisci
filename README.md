@@ -3,7 +3,7 @@
 
 Example project showing how to execute Postman collections with Docker triggered by TravisCI
 
-## Run Postman as Newmen inside a Docker Container and execute a test
+## Run Postman as Newman inside a Docker Container and execute a test
 
 Execute the provided Postman collection https://www.getpostman.com/collections/8a0c9bc08f062d12dcda with Newman inside a Docker container:
 
